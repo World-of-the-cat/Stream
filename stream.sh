@@ -6,7 +6,7 @@
 VBR="4000k"                                                 # Битрейт видео
 FPS="60"                                                    # FPS
 QUAL="medium"                                               # Пресет качества для FFmpeg
-TWITCH_URL="rtmp://live-hel.twitch.tv/app"                  # URL RTMP Twitch
+TWITCH_URL=""                  # URL RTMP Twitch
 KEY="live_517990921_gOBVnOCrrRtWtI6t98Ad8aZJNAHsxQ"         # Ключ потока
 FOLDER="radio"                                              # Имя папки с видео роликами
 
