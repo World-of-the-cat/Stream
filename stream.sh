@@ -3,6 +3,9 @@
                                                             # npm init
                                                             # При запуске прописывать - chmod +x stream.sh и chmod 777 stream.sh
                                                             # Создаете папку radio и закидываете туда любое видио ЕСЛИ КИДАТЬ 2 ВИДИО ТО ОНИ ДОЛЖНЫ БЫТЬ ОДНОГО РАЗРЕШЕНИЯ!
+                                                            # Взято с https://www.youtube.com/watch?v=n2Y5hHNWcWQ
+                                                            
+                                                            
 VBR="4000k"                                                 # Битрейт видео
 FPS="60"                                                    # FPS
 QUAL="medium"                                               # Пресет качества для FFmpeg
